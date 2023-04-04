@@ -16,7 +16,7 @@ body {
   background: url("Images/Bangalore_.jpg");
   background-position: center;
   background-size: cover;
-  height: 500px;
+  height: 800px;
   
   padding: 1px;
   /* Padding used to ensure that margin collapsing doesn't occur when I want to change the vertical position of the title and subtitle */
